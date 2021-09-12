@@ -1,5 +1,5 @@
 # PyTorr
-A basic BiTorrent client \ 
+A basic BiTorrent client.
 Run this with the command
 
 ```
